@@ -1,4 +1,0 @@
-ahorcado
-========
-
-Juego de ahorcado
