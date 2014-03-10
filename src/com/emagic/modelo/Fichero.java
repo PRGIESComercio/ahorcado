@@ -15,6 +15,10 @@ public class Fichero {
         palabraSeleccionada = "";
     }
     
+    /**
+     * Devuelve una palabra buscada en un fichero de forma aleatoria
+     * @return Palabra aleatoria
+     */
     public String damePalabra() {
         return "otorrinolaringologo".toUpperCase();
     }
