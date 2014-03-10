@@ -20,7 +20,7 @@ public class FrmAhorcado extends javax.swing.JFrame {
     private Marcador marcador;
 
     /**
-     * Creates new form FrmAhorcado
+     * Creates new form FrmAhorcado todo correcto
      */
     public FrmAhorcado() {
         initComponents();
